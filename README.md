@@ -16,4 +16,4 @@ importance.
 6. Plot the following Bar plots:
 0. train score of all the above models.
 1. test (not validation!) score of all the above models.
-2. Attempt to explain the observations from the plots (optional)
+2. 
